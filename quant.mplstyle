@@ -1,0 +1,22 @@
+# light style for every notebook of this repo: plt.style.use("quant.mplstyle")
+axes.facecolor: white
+axes.edgecolor: "#b0b0b0"
+axes.linewidth: 0.8
+axes.grid: True
+axes.axisbelow: True
+grid.color: "#e5e5e5"
+grid.linewidth: 0.6
+axes.spines.top: False
+axes.spines.right: False
+axes.prop_cycle: cycler("color", ["4c72b0", "dd8452", "55a868", "c44e52", "8172b3", "937860", "da8bc3", "8c8c8c", "ccb974", "64b5cd"])
+axes.titlesize: 11
+axes.labelsize: 10
+xtick.labelsize: 9
+ytick.labelsize: 9
+xtick.color: "#555555"
+ytick.color: "#555555"
+legend.frameon: False
+legend.fontsize: 9
+lines.linewidth: 1.1
+figure.dpi: 110
+image.cmap: RdBu_r
